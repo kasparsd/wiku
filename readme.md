@@ -2,4 +2,4 @@
 
 View schematics and PCB design [on EasyEDA](https://easyeda.com/kasparsd/wireless-current-monitor).
 
-![PCB layout](board.png)
+![PCB layout](docs/board.png)
